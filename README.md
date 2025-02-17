@@ -15,7 +15,7 @@ Olá! Sou um desenvolvedor empolgado por aprender novas tecnologias e criar proj
 - **React**: Biblioteca JavaScript para construção de interfaces de usuário.
 - **TypeScript**: Superset do JavaScript, adicionando tipagem estática.
 
-- ## Marcação e Estilo
+## Marcação e Estilo
 
 - **HTML**: Linguagem de marcação usada para estruturar páginas web.
 - **CSS**: Linguagem de estilo usada para definir o layout e o design de páginas web.
