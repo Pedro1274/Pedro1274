@@ -9,7 +9,7 @@ Olá! Sou um desenvolvedor empolgado por aprender novas tecnologias e criar proj
 - **Java**: Linguagem orientada a objetos amplamente usada no desenvolvimento de aplicativos corporativos.
 - **C**: Linguagem de programação de baixo nível, muito utilizada em sistemas operacionais e programação embarcada.
 
-## Frameworks
+## Ferramentas
 
 - **Node.js**: Plataforma de execução JavaScript no backend.
 - **React**: Biblioteca JavaScript para construção de interfaces de usuário.
