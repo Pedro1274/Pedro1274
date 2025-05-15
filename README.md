@@ -17,7 +17,3 @@ Computer Science student at UNINASSAU. Passionate about software development and
 - [GitHub](https://github.com/Pedro1274)  
 - Email: pedroruan17@hotmail.com
 - Gmail: pedroruan792@gmail.com  
-
----
-
-![Visitor Count](https://profile-counter.glitch.me/Pedro1274/count.svg)
