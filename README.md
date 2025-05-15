@@ -1,25 +1,29 @@
-# Sobre Mim
+# 👋 Hi, I'm Pedro Ruan!
 
-Olá! Sou um desenvolvedor empolgado por aprender novas tecnologias e criar projetos incríveis. Tenho experiência em várias linguagens e frameworks e estou sempre em busca de desafios para expandir meus conhecimentos.
+## About Me
+Computer Science student at UNINASSAU. Passionate about software development and always eager to learn new technologies.
 
-## Linguagens
+---
 
-- **JavaScript**: Utilizado para criar interatividade em páginas web e aplicações.
-- **Python**: Linguagem de programação versátil, focada em simplicidade e legibilidade.
-- **Java**: Linguagem orientada a objetos amplamente usada no desenvolvimento de aplicativos corporativos.
-- **C**: Linguagem de programação de baixo nível, muito utilizada em sistemas operacionais e programação embarcada.
+## Skills
 
-## Ferramentas
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) Python  
+- ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black) React.js  
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) HTML  
+- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) CSS  
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) JavaScript  
+- ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) Pandas  
+- ![REST API](https://img.shields.io/badge/-REST_API-61DAFB?style=for-the-badge) RESTful APIs  
+- ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) Git & GitHub  
 
-- **Node.js**: Plataforma de execução JavaScript no backend.
-- **React**: Biblioteca JavaScript para construção de interfaces de usuário.
-- **TypeScript**: Superset do JavaScript, adicionando tipagem estática.
+---
 
-## Marcação e Estilo
+## Contact
 
-- **HTML**: Linguagem de marcação usada para estruturar páginas web.
-- **CSS**: Linguagem de estilo usada para definir o layout e o design de páginas web.
+- [LinkedIn](https://www.linkedin.com/in/pedro-ruan-0ab1b2351/)  
+- [GitHub](https://github.com/Pedro1274)  
+- Email: pedroruan17@hotmail.com  
 
-## Contato
-- [Email] pedroruan17@hotmail.com
-- [Gmail] pedroruan792@gmail.com
+---
+
+![Visitor Count](https://profile-counter.glitch.me/Pedro1274/count.svg)
