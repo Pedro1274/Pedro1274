@@ -13,7 +13,6 @@ Computer Science student at UNINASSAU. Passionate about software development and
 
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/pedro-ruan-0ab1b2351/)  
 - [GitHub](https://github.com/Pedro1274)  
 - Email: pedroruan17@hotmail.com
 - Gmail: pedroruan792@gmail.com  
