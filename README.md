@@ -14,5 +14,4 @@ Computer Science student at UNINASSAU. Passionate about software development and
 ## Contact
 
 - Linkedin: https://www.linkedin.com/in/ruandevstudio
-- Email: pedroruan17@hotmail.com
 - Gmail: ruandevstudio@gmail.com
